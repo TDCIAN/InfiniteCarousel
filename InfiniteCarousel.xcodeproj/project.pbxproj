@@ -14,7 +14,6 @@
 		1E825F822A55982900D3FD40 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E825F812A55982900D3FD40 /* Assets.xcassets */; };
 		1E825F852A55982900D3FD40 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E825F832A55982900D3FD40 /* LaunchScreen.storyboard */; };
 		1E825F8E2A5598A300D3FD40 /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = 1E825F8D2A5598A300D3FD40 /* SnapKit */; };
-		1E825F902A559B0600D3FD40 /* InfiniteCarouselCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E825F8F2A559B0600D3FD40 /* InfiniteCarouselCollectionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,7 +25,6 @@
 		1E825F812A55982900D3FD40 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1E825F842A55982900D3FD40 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1E825F862A55982900D3FD40 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1E825F8F2A559B0600D3FD40 /* InfiniteCarouselCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfiniteCarouselCollectionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +60,6 @@
 			children = (
 				1E825F782A55982800D3FD40 /* AppDelegate.swift */,
 				1E825F7A2A55982800D3FD40 /* SceneDelegate.swift */,
-				1E825F8F2A559B0600D3FD40 /* InfiniteCarouselCollectionView.swift */,
 				1E825F7C2A55982800D3FD40 /* ViewController.swift */,
 				1E825F7E2A55982800D3FD40 /* Main.storyboard */,
 				1E825F812A55982900D3FD40 /* Assets.xcassets */,
@@ -151,7 +148,6 @@
 			files = (
 				1E825F7D2A55982800D3FD40 /* ViewController.swift in Sources */,
 				1E825F792A55982800D3FD40 /* AppDelegate.swift in Sources */,
-				1E825F902A559B0600D3FD40 /* InfiniteCarouselCollectionView.swift in Sources */,
 				1E825F7B2A55982800D3FD40 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
