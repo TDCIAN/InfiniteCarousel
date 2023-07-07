@@ -8,6 +8,10 @@
 import UIKit
 import SnapKit
 
+// MARK: References
+// https://codingmon.tistory.com/51
+// https://ios-development.tistory.com/1197
+// https://sueaty.tistory.com/144
 class CollectionViewCell: UICollectionViewCell {
     static let identifier = "CollectionViewCell"
     
